@@ -37,4 +37,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauYd&theme=dark)](https://github.com/GauYd/github-readme-streak-stats)
 
-[![GauYd's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauYd&theme=react-dark)](https://github.com/GauYd/github-readme-activity-graph)
+[![GauYd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GauYd&theme=github-compact)](https://github.com/GauYd/github-readme-activity-graph)
